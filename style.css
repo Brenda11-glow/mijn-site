@@ -146,6 +146,7 @@ td {
     width: 150px;
     height: 75px;
     border: 1px solid #000;
+  background-color: transparent;
 }
 
 footer {
